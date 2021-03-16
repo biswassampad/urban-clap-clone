@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "214680292480",
+    "firebase_url": "https://servpro-d4f68.firebaseio.com",
+    "project_id": "servpro-d4f68",
+    "storage_bucket": "servpro-d4f68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214680292480:android:5d327f302904f7ed",
+        "android_client_info": {
+          "package_name": "codecanyon.servpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214680292480-ksr9kpcuvicvoutjrf10h9r38urrbjab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwFNJb-BVagcy-XKqJV1oBUoLsFs6XoIs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

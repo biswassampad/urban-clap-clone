@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25316b</color>
+    <color name="colorPrimaryDark">#25316b</color>
+    <color name="colorAccent">#6b1668</color>
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="color_bg">#E8E8E8</color>
+    <color name="color_bg_button">#88676767</color>
+    <color name="red">#dc0000</color>
+    <color name="color_orenge">#FFC982</color>
+    <color name="color_green">#1BA94D</color>
+    <color name="color_orenge_dark">#DD7E00</color>
+    <color name="colorOrenge">#ff6e04</color>
+    <color name="colorPurple">#5E4680</color>
+
+</resources>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "483002999689",
+    "firebase_url": "https://service-man-1279b.firebaseio.com",
+    "project_id": "service-man-1279b",
+    "storage_bucket": "service-man-1279b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483002999689:android:710b6bb6718b7e8c",
+        "android_client_info": {
+          "package_name": "codecanyon.serviceman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483002999689-0sfeeatss9rq9bc1btq5t0kvg7mp7m5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2eQwxxJ3u0qlKDmuF2dLdrgXMgkcyVRE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
