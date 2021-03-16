@@ -1,4 +1,4 @@
-Service Booking android app created by dsinfoway
+
 
 “Service booking app / Service booking Product” is android app based one stop solution to provide various type of services for repair, installation and solution. 
 
